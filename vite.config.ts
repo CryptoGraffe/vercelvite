@@ -8,7 +8,4 @@ export default defineConfig({
   plugins: [react(),
     vercel()
   ],
-  ssr:{
-    target:"webworker",
-  }
 })
