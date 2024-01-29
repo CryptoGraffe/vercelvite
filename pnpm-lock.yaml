@@ -15,8 +15,8 @@ dependencies:
     specifier: ^18.2.0
     version: 18.2.0(react@18.2.0)
   vite-plugin-vercel:
-    specifier: ^3.0.1
-    version: 3.0.1(vite@5.0.12)
+    specifier: ^3.0.2
+    version: 3.0.2(vite@5.0.12)
 
 devDependencies:
   '@types/react':
@@ -2082,8 +2082,8 @@ packages:
     dependencies:
       punycode: 2.3.1
 
-  /vite-plugin-vercel@3.0.1(vite@5.0.12):
-    resolution: {integrity: sha512-48RSWRM+zdm8WvjBvo99yHCT00eAbxBUr1LnmcQHTFJB0a2oCiGgyJwdRZXHjzLDnZxh8diIvweZ4SnIf/l0MQ==}
+  /vite-plugin-vercel@3.0.2(vite@5.0.12):
+    resolution: {integrity: sha512-xI3NPJMFwwU0rzTUubR4Nx4AM4qCxSQWWCQGbJ5u9yKLimsUN4gRlLBkD1JMZyIH5969xM6I128wcMDEFNzWcA==}
     peerDependencies:
       '@vite-plugin-vercel/vike': 3.0.1
       vike: '*'
